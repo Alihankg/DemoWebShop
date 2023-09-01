@@ -1,28 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9137e9e2-2656-456a-aed0-9381a12c659c" name="Changes" comment="" />
+    <list default="true" id="9137e9e2-2656-456a-aed0-9381a12c659c" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/src/US_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/US_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/US_09.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2UlLCdENdaD2Dk8s1oNsRyWWgMU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
